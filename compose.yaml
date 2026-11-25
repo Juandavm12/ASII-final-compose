@@ -1,0 +1,74 @@
+name: arq-final-festivos-calendario
+services:
+  mongo:
+    restart: unless-stopped
+    image: mongo:7.0.17
+    volumes: [mongo_data:/data/db]
+    healthcheck:
+      test: [CMD, mongosh, --quiet, --eval, "db.adminCommand('ping').ok"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  postgres:
+    restart: unless-stopped
+    image: postgres:16.8-bookworm
+    environment:
+      POSTGRES_DB: calendario
+      POSTGRES_USER: calendario
+      POSTGRES_PASSWORD: entrega-local-only
+    volumes: [postgres_data:/var/lib/postgresql/data]
+    healthcheck:
+      test: [CMD-SHELL, "pg_isready -U calendario -d calendario"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  festivos:
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: docker/festivos.Dockerfile
+    environment:
+      HOST: 0.0.0.0
+      PORT: '8080'
+      MONGODB_URI: mongodb://mongo:27017
+      MONGODB_DATABASE: festivos
+    ports: ['127.0.0.1:8080:8080']
+    depends_on:
+      mongo: {condition: service_healthy}
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - >-
+          fetch('http://127.0.0.1:8080/api/tipos')
+          .then(r=>{if(!r.ok)process.exit(1)})
+          .catch(()=>process.exit(1))
+      interval: 10s
+      timeout: 5s
+      retries: 20
+  calendario:
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: docker/calendario.Dockerfile
+    environment:
+      HOST: 0.0.0.0
+      PORT: '8081'
+      DB_URL: jdbc:postgresql://postgres:5432/calendario
+      DB_USERNAME: calendario
+      DB_PASSWORD: entrega-local-only
+      FESTIVOS_URL: http://festivos:8080
+    ports: ['127.0.0.1:8081:8081']
+    depends_on:
+      postgres: {condition: service_healthy}
+      festivos: {condition: service_healthy}
+    healthcheck:
+      test: [CMD-SHELL, "bash -c 'echo > /dev/tcp/127.0.0.1/8081'"]
+      interval: 10s
+      timeout: 5s
+      retries: 30
+      start_period: 30s
+volumes:
+  mongo_data:
+  postgres_data:
