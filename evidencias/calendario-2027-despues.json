@@ -1,0 +1,3287 @@
+[
+  {
+    "id": 732,
+    "fecha": "2027-01-01",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 733,
+    "fecha": "2027-01-02",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 734,
+    "fecha": "2027-01-03",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 735,
+    "fecha": "2027-01-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 736,
+    "fecha": "2027-01-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 737,
+    "fecha": "2027-01-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 738,
+    "fecha": "2027-01-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 739,
+    "fecha": "2027-01-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 740,
+    "fecha": "2027-01-09",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 741,
+    "fecha": "2027-01-10",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 742,
+    "fecha": "2027-01-11",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 743,
+    "fecha": "2027-01-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 744,
+    "fecha": "2027-01-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 745,
+    "fecha": "2027-01-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 746,
+    "fecha": "2027-01-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 747,
+    "fecha": "2027-01-16",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 748,
+    "fecha": "2027-01-17",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 749,
+    "fecha": "2027-01-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 750,
+    "fecha": "2027-01-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 751,
+    "fecha": "2027-01-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 752,
+    "fecha": "2027-01-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 753,
+    "fecha": "2027-01-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 754,
+    "fecha": "2027-01-23",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 755,
+    "fecha": "2027-01-24",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 756,
+    "fecha": "2027-01-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 757,
+    "fecha": "2027-01-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 758,
+    "fecha": "2027-01-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 759,
+    "fecha": "2027-01-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 760,
+    "fecha": "2027-01-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 761,
+    "fecha": "2027-01-30",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 762,
+    "fecha": "2027-01-31",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 763,
+    "fecha": "2027-02-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 764,
+    "fecha": "2027-02-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 765,
+    "fecha": "2027-02-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 766,
+    "fecha": "2027-02-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 767,
+    "fecha": "2027-02-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 768,
+    "fecha": "2027-02-06",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 769,
+    "fecha": "2027-02-07",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 770,
+    "fecha": "2027-02-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 771,
+    "fecha": "2027-02-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 772,
+    "fecha": "2027-02-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 773,
+    "fecha": "2027-02-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 774,
+    "fecha": "2027-02-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 775,
+    "fecha": "2027-02-13",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 776,
+    "fecha": "2027-02-14",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 777,
+    "fecha": "2027-02-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 778,
+    "fecha": "2027-02-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 779,
+    "fecha": "2027-02-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 780,
+    "fecha": "2027-02-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 781,
+    "fecha": "2027-02-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 782,
+    "fecha": "2027-02-20",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 783,
+    "fecha": "2027-02-21",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 784,
+    "fecha": "2027-02-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 785,
+    "fecha": "2027-02-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 786,
+    "fecha": "2027-02-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 787,
+    "fecha": "2027-02-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 788,
+    "fecha": "2027-02-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 789,
+    "fecha": "2027-02-27",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 790,
+    "fecha": "2027-02-28",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 791,
+    "fecha": "2027-03-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 792,
+    "fecha": "2027-03-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 793,
+    "fecha": "2027-03-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 794,
+    "fecha": "2027-03-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 795,
+    "fecha": "2027-03-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 796,
+    "fecha": "2027-03-06",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 797,
+    "fecha": "2027-03-07",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 798,
+    "fecha": "2027-03-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 799,
+    "fecha": "2027-03-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 800,
+    "fecha": "2027-03-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 801,
+    "fecha": "2027-03-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 802,
+    "fecha": "2027-03-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 803,
+    "fecha": "2027-03-13",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 804,
+    "fecha": "2027-03-14",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 805,
+    "fecha": "2027-03-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 806,
+    "fecha": "2027-03-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 807,
+    "fecha": "2027-03-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 808,
+    "fecha": "2027-03-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 809,
+    "fecha": "2027-03-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 810,
+    "fecha": "2027-03-20",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 811,
+    "fecha": "2027-03-21",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 812,
+    "fecha": "2027-03-22",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 813,
+    "fecha": "2027-03-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 814,
+    "fecha": "2027-03-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 815,
+    "fecha": "2027-03-25",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 816,
+    "fecha": "2027-03-26",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 817,
+    "fecha": "2027-03-27",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 818,
+    "fecha": "2027-03-28",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 819,
+    "fecha": "2027-03-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 820,
+    "fecha": "2027-03-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 821,
+    "fecha": "2027-03-31",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 822,
+    "fecha": "2027-04-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 823,
+    "fecha": "2027-04-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 824,
+    "fecha": "2027-04-03",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 825,
+    "fecha": "2027-04-04",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 826,
+    "fecha": "2027-04-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 827,
+    "fecha": "2027-04-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 828,
+    "fecha": "2027-04-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 829,
+    "fecha": "2027-04-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 830,
+    "fecha": "2027-04-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 831,
+    "fecha": "2027-04-10",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 832,
+    "fecha": "2027-04-11",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 833,
+    "fecha": "2027-04-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 834,
+    "fecha": "2027-04-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 835,
+    "fecha": "2027-04-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 836,
+    "fecha": "2027-04-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 837,
+    "fecha": "2027-04-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 838,
+    "fecha": "2027-04-17",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 839,
+    "fecha": "2027-04-18",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 840,
+    "fecha": "2027-04-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 841,
+    "fecha": "2027-04-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 842,
+    "fecha": "2027-04-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 843,
+    "fecha": "2027-04-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 844,
+    "fecha": "2027-04-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 845,
+    "fecha": "2027-04-24",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 846,
+    "fecha": "2027-04-25",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 847,
+    "fecha": "2027-04-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 848,
+    "fecha": "2027-04-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 849,
+    "fecha": "2027-04-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 850,
+    "fecha": "2027-04-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 851,
+    "fecha": "2027-04-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 852,
+    "fecha": "2027-05-01",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 853,
+    "fecha": "2027-05-02",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 854,
+    "fecha": "2027-05-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 855,
+    "fecha": "2027-05-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 856,
+    "fecha": "2027-05-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 857,
+    "fecha": "2027-05-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 858,
+    "fecha": "2027-05-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 859,
+    "fecha": "2027-05-08",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 860,
+    "fecha": "2027-05-09",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 861,
+    "fecha": "2027-05-10",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 862,
+    "fecha": "2027-05-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 863,
+    "fecha": "2027-05-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 864,
+    "fecha": "2027-05-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 865,
+    "fecha": "2027-05-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 866,
+    "fecha": "2027-05-15",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 867,
+    "fecha": "2027-05-16",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 868,
+    "fecha": "2027-05-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 869,
+    "fecha": "2027-05-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 870,
+    "fecha": "2027-05-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 871,
+    "fecha": "2027-05-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 872,
+    "fecha": "2027-05-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 873,
+    "fecha": "2027-05-22",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 874,
+    "fecha": "2027-05-23",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 875,
+    "fecha": "2027-05-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 876,
+    "fecha": "2027-05-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 877,
+    "fecha": "2027-05-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 878,
+    "fecha": "2027-05-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 879,
+    "fecha": "2027-05-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 880,
+    "fecha": "2027-05-29",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 881,
+    "fecha": "2027-05-30",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 882,
+    "fecha": "2027-05-31",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 883,
+    "fecha": "2027-06-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 884,
+    "fecha": "2027-06-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 885,
+    "fecha": "2027-06-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 886,
+    "fecha": "2027-06-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 887,
+    "fecha": "2027-06-05",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 888,
+    "fecha": "2027-06-06",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 889,
+    "fecha": "2027-06-07",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 890,
+    "fecha": "2027-06-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 891,
+    "fecha": "2027-06-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 892,
+    "fecha": "2027-06-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 893,
+    "fecha": "2027-06-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 894,
+    "fecha": "2027-06-12",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 895,
+    "fecha": "2027-06-13",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 896,
+    "fecha": "2027-06-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 897,
+    "fecha": "2027-06-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 898,
+    "fecha": "2027-06-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 899,
+    "fecha": "2027-06-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 900,
+    "fecha": "2027-06-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 901,
+    "fecha": "2027-06-19",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 902,
+    "fecha": "2027-06-20",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 903,
+    "fecha": "2027-06-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 904,
+    "fecha": "2027-06-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 905,
+    "fecha": "2027-06-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 906,
+    "fecha": "2027-06-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 907,
+    "fecha": "2027-06-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 908,
+    "fecha": "2027-06-26",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 909,
+    "fecha": "2027-06-27",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 910,
+    "fecha": "2027-06-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 911,
+    "fecha": "2027-06-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 912,
+    "fecha": "2027-06-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 913,
+    "fecha": "2027-07-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 914,
+    "fecha": "2027-07-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 915,
+    "fecha": "2027-07-03",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 916,
+    "fecha": "2027-07-04",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 917,
+    "fecha": "2027-07-05",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 918,
+    "fecha": "2027-07-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 919,
+    "fecha": "2027-07-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 920,
+    "fecha": "2027-07-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 921,
+    "fecha": "2027-07-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 922,
+    "fecha": "2027-07-10",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 923,
+    "fecha": "2027-07-11",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 924,
+    "fecha": "2027-07-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 925,
+    "fecha": "2027-07-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 926,
+    "fecha": "2027-07-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 927,
+    "fecha": "2027-07-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 928,
+    "fecha": "2027-07-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 929,
+    "fecha": "2027-07-17",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 930,
+    "fecha": "2027-07-18",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 931,
+    "fecha": "2027-07-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 932,
+    "fecha": "2027-07-20",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 933,
+    "fecha": "2027-07-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 934,
+    "fecha": "2027-07-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 935,
+    "fecha": "2027-07-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 936,
+    "fecha": "2027-07-24",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 937,
+    "fecha": "2027-07-25",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 938,
+    "fecha": "2027-07-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 939,
+    "fecha": "2027-07-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 940,
+    "fecha": "2027-07-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 941,
+    "fecha": "2027-07-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 942,
+    "fecha": "2027-07-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 943,
+    "fecha": "2027-07-31",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 944,
+    "fecha": "2027-08-01",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 945,
+    "fecha": "2027-08-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 946,
+    "fecha": "2027-08-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 947,
+    "fecha": "2027-08-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 948,
+    "fecha": "2027-08-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 949,
+    "fecha": "2027-08-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 950,
+    "fecha": "2027-08-07",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 951,
+    "fecha": "2027-08-08",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 952,
+    "fecha": "2027-08-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 953,
+    "fecha": "2027-08-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 954,
+    "fecha": "2027-08-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 955,
+    "fecha": "2027-08-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 956,
+    "fecha": "2027-08-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 957,
+    "fecha": "2027-08-14",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 958,
+    "fecha": "2027-08-15",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 959,
+    "fecha": "2027-08-16",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 960,
+    "fecha": "2027-08-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 961,
+    "fecha": "2027-08-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 962,
+    "fecha": "2027-08-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 963,
+    "fecha": "2027-08-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 964,
+    "fecha": "2027-08-21",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 965,
+    "fecha": "2027-08-22",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 966,
+    "fecha": "2027-08-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 967,
+    "fecha": "2027-08-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 968,
+    "fecha": "2027-08-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 969,
+    "fecha": "2027-08-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 970,
+    "fecha": "2027-08-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 971,
+    "fecha": "2027-08-28",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 972,
+    "fecha": "2027-08-29",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 973,
+    "fecha": "2027-08-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 974,
+    "fecha": "2027-08-31",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 975,
+    "fecha": "2027-09-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 976,
+    "fecha": "2027-09-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 977,
+    "fecha": "2027-09-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 978,
+    "fecha": "2027-09-04",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 979,
+    "fecha": "2027-09-05",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 980,
+    "fecha": "2027-09-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 981,
+    "fecha": "2027-09-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 982,
+    "fecha": "2027-09-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 983,
+    "fecha": "2027-09-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 984,
+    "fecha": "2027-09-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 985,
+    "fecha": "2027-09-11",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 986,
+    "fecha": "2027-09-12",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 987,
+    "fecha": "2027-09-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 988,
+    "fecha": "2027-09-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 989,
+    "fecha": "2027-09-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 990,
+    "fecha": "2027-09-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 991,
+    "fecha": "2027-09-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 992,
+    "fecha": "2027-09-18",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 993,
+    "fecha": "2027-09-19",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 994,
+    "fecha": "2027-09-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 995,
+    "fecha": "2027-09-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 996,
+    "fecha": "2027-09-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 997,
+    "fecha": "2027-09-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 998,
+    "fecha": "2027-09-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 999,
+    "fecha": "2027-09-25",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1000,
+    "fecha": "2027-09-26",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1001,
+    "fecha": "2027-09-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1002,
+    "fecha": "2027-09-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1003,
+    "fecha": "2027-09-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1004,
+    "fecha": "2027-09-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1005,
+    "fecha": "2027-10-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1006,
+    "fecha": "2027-10-02",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1007,
+    "fecha": "2027-10-03",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1008,
+    "fecha": "2027-10-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1009,
+    "fecha": "2027-10-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1010,
+    "fecha": "2027-10-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1011,
+    "fecha": "2027-10-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1012,
+    "fecha": "2027-10-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1013,
+    "fecha": "2027-10-09",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1014,
+    "fecha": "2027-10-10",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1015,
+    "fecha": "2027-10-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1016,
+    "fecha": "2027-10-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1017,
+    "fecha": "2027-10-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1018,
+    "fecha": "2027-10-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1019,
+    "fecha": "2027-10-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1020,
+    "fecha": "2027-10-16",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1021,
+    "fecha": "2027-10-17",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1022,
+    "fecha": "2027-10-18",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1023,
+    "fecha": "2027-10-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1024,
+    "fecha": "2027-10-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1025,
+    "fecha": "2027-10-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1026,
+    "fecha": "2027-10-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1027,
+    "fecha": "2027-10-23",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1028,
+    "fecha": "2027-10-24",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1029,
+    "fecha": "2027-10-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1030,
+    "fecha": "2027-10-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1031,
+    "fecha": "2027-10-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1032,
+    "fecha": "2027-10-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1033,
+    "fecha": "2027-10-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1034,
+    "fecha": "2027-10-30",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1035,
+    "fecha": "2027-10-31",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1036,
+    "fecha": "2027-11-01",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1037,
+    "fecha": "2027-11-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1038,
+    "fecha": "2027-11-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1039,
+    "fecha": "2027-11-04",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1040,
+    "fecha": "2027-11-05",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1041,
+    "fecha": "2027-11-06",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1042,
+    "fecha": "2027-11-07",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1043,
+    "fecha": "2027-11-08",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1044,
+    "fecha": "2027-11-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1045,
+    "fecha": "2027-11-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1046,
+    "fecha": "2027-11-11",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1047,
+    "fecha": "2027-11-12",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1048,
+    "fecha": "2027-11-13",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1049,
+    "fecha": "2027-11-14",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1050,
+    "fecha": "2027-11-15",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1051,
+    "fecha": "2027-11-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1052,
+    "fecha": "2027-11-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1053,
+    "fecha": "2027-11-18",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1054,
+    "fecha": "2027-11-19",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1055,
+    "fecha": "2027-11-20",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1056,
+    "fecha": "2027-11-21",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1057,
+    "fecha": "2027-11-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1058,
+    "fecha": "2027-11-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1059,
+    "fecha": "2027-11-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1060,
+    "fecha": "2027-11-25",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1061,
+    "fecha": "2027-11-26",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1062,
+    "fecha": "2027-11-27",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1063,
+    "fecha": "2027-11-28",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1064,
+    "fecha": "2027-11-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1065,
+    "fecha": "2027-11-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1066,
+    "fecha": "2027-12-01",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1067,
+    "fecha": "2027-12-02",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1068,
+    "fecha": "2027-12-03",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1069,
+    "fecha": "2027-12-04",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1070,
+    "fecha": "2027-12-05",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1071,
+    "fecha": "2027-12-06",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1072,
+    "fecha": "2027-12-07",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1073,
+    "fecha": "2027-12-08",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1074,
+    "fecha": "2027-12-09",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1075,
+    "fecha": "2027-12-10",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1076,
+    "fecha": "2027-12-11",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1077,
+    "fecha": "2027-12-12",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1078,
+    "fecha": "2027-12-13",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1079,
+    "fecha": "2027-12-14",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1080,
+    "fecha": "2027-12-15",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1081,
+    "fecha": "2027-12-16",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1082,
+    "fecha": "2027-12-17",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1083,
+    "fecha": "2027-12-18",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1084,
+    "fecha": "2027-12-19",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1085,
+    "fecha": "2027-12-20",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1086,
+    "fecha": "2027-12-21",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1087,
+    "fecha": "2027-12-22",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1088,
+    "fecha": "2027-12-23",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1089,
+    "fecha": "2027-12-24",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  },
+  {
+    "id": 1090,
+    "fecha": "2027-12-25",
+    "tipo": {
+      "id": 3,
+      "tipo": "Dia festivo"
+    },
+    "descripcion": "Sábado"
+  },
+  {
+    "id": 1091,
+    "fecha": "2027-12-26",
+    "tipo": {
+      "id": 2,
+      "tipo": "Fin de Semana"
+    },
+    "descripcion": "Domingo"
+  },
+  {
+    "id": 1092,
+    "fecha": "2027-12-27",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Lunes"
+  },
+  {
+    "id": 1093,
+    "fecha": "2027-12-28",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Martes"
+  },
+  {
+    "id": 1094,
+    "fecha": "2027-12-29",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Miércoles"
+  },
+  {
+    "id": 1095,
+    "fecha": "2027-12-30",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Jueves"
+  },
+  {
+    "id": 1096,
+    "fecha": "2027-12-31",
+    "tipo": {
+      "id": 1,
+      "tipo": "Dia laboral"
+    },
+    "descripcion": "Viernes"
+  }
+]

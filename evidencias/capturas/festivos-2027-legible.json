@@ -1,0 +1,7 @@
+{
+  "url": "http://127.0.0.1:8080/api/festivos/obtener/2027",
+  "status": 200,
+  "registros": 19,
+  "fecha": "2026-11-24T04:17:18.858Z",
+  "formato": "Respuesta HTTP real; solo sangría y tipografía modificadas; captura parcial del JSON completo"
+}

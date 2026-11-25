@@ -1,0 +1,12 @@
+[
+  {
+    "archivo": "festivos-2027.png",
+    "url": "http://127.0.0.1:8080/api/festivos/obtener/2027",
+    "tipo": "captura auténtica de Chrome headless; viewport del navegador, no terminal"
+  },
+  {
+    "archivo": "calendario-2027.png",
+    "url": "http://127.0.0.1:8081/api/calendario/listar/2027",
+    "tipo": "captura auténtica de Chrome headless; viewport del navegador, no terminal"
+  }
+]

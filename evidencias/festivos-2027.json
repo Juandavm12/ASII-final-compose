@@ -1,0 +1,78 @@
+[
+  {
+    "festivo": "Año nuevo",
+    "fecha": "2027-01-01"
+  },
+  {
+    "festivo": "Santos Reyes",
+    "fecha": "2027-01-11"
+  },
+  {
+    "festivo": "San José",
+    "fecha": "2027-03-22"
+  },
+  {
+    "festivo": "Jueves Santo",
+    "fecha": "2027-03-25"
+  },
+  {
+    "festivo": "Viernes Santo",
+    "fecha": "2027-03-26"
+  },
+  {
+    "festivo": "Domingo de Pascua",
+    "fecha": "2027-03-28"
+  },
+  {
+    "festivo": "Día del Trabajo",
+    "fecha": "2027-05-01"
+  },
+  {
+    "festivo": "Ascensión del Señor",
+    "fecha": "2027-05-10"
+  },
+  {
+    "festivo": "Corpus Christi",
+    "fecha": "2027-05-31"
+  },
+  {
+    "festivo": "Sagrado Corazón de Jesús",
+    "fecha": "2027-06-07"
+  },
+  {
+    "festivo": "San Pedro y San Pablo",
+    "fecha": "2027-07-05"
+  },
+  {
+    "festivo": "Independencia Colombia",
+    "fecha": "2027-07-20"
+  },
+  {
+    "festivo": "Batalla de Boyacá",
+    "fecha": "2027-08-07"
+  },
+  {
+    "festivo": "Asunción de la Virgen",
+    "fecha": "2027-08-16"
+  },
+  {
+    "festivo": "Día de la Raza",
+    "fecha": "2027-10-18"
+  },
+  {
+    "festivo": "Todos los santos",
+    "fecha": "2027-11-01"
+  },
+  {
+    "festivo": "Independencia de Cartagena",
+    "fecha": "2027-11-15"
+  },
+  {
+    "festivo": "Inmaculada Concepción",
+    "fecha": "2027-12-08"
+  },
+  {
+    "festivo": "Navidad",
+    "fecha": "2027-12-25"
+  }
+]

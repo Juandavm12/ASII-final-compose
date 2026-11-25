@@ -1,0 +1,5 @@
+NAME                                         IMAGE                                      COMMAND                  SERVICE      CREATED              STATUS                    PORTS
+arq-final-festivos-calendario-calendario-1   arq-final-festivos-calendario-calendario   "java -jar /app/app.…"   calendario   About a minute ago   Up 18 seconds (healthy)   127.0.0.1:8081->8081/tcp
+arq-final-festivos-calendario-festivos-1     arq-final-festivos-calendario-festivos     "sh /entrypoint.sh"      festivos     About a minute ago   Up 19 seconds (healthy)   127.0.0.1:8080->8080/tcp
+arq-final-festivos-calendario-mongo-1        mongo:7.0.17                               "docker-entrypoint.s…"   mongo        About a minute ago   Up 19 seconds (healthy)   27017/tcp
+arq-final-festivos-calendario-postgres-1     postgres:16.8-bookworm                     "docker-entrypoint.s…"   postgres     About a minute ago   Up 19 seconds (healthy)   5432/tcp

@@ -1,0 +1,78 @@
+[
+  {
+    "festivo": "Año nuevo",
+    "fecha": "2028-01-01"
+  },
+  {
+    "festivo": "Santos Reyes",
+    "fecha": "2028-01-10"
+  },
+  {
+    "festivo": "San José",
+    "fecha": "2028-03-20"
+  },
+  {
+    "festivo": "Jueves Santo",
+    "fecha": "2028-04-13"
+  },
+  {
+    "festivo": "Viernes Santo",
+    "fecha": "2028-04-14"
+  },
+  {
+    "festivo": "Domingo de Pascua",
+    "fecha": "2028-04-16"
+  },
+  {
+    "festivo": "Día del Trabajo",
+    "fecha": "2028-05-01"
+  },
+  {
+    "festivo": "Ascensión del Señor",
+    "fecha": "2028-05-29"
+  },
+  {
+    "festivo": "Corpus Christi",
+    "fecha": "2028-06-19"
+  },
+  {
+    "festivo": "Sagrado Corazón de Jesús",
+    "fecha": "2028-06-26"
+  },
+  {
+    "festivo": "San Pedro y San Pablo",
+    "fecha": "2028-07-03"
+  },
+  {
+    "festivo": "Independencia Colombia",
+    "fecha": "2028-07-20"
+  },
+  {
+    "festivo": "Batalla de Boyacá",
+    "fecha": "2028-08-07"
+  },
+  {
+    "festivo": "Asunción de la Virgen",
+    "fecha": "2028-08-21"
+  },
+  {
+    "festivo": "Día de la Raza",
+    "fecha": "2028-10-16"
+  },
+  {
+    "festivo": "Todos los santos",
+    "fecha": "2028-11-06"
+  },
+  {
+    "festivo": "Independencia de Cartagena",
+    "fecha": "2028-11-13"
+  },
+  {
+    "festivo": "Inmaculada Concepción",
+    "fecha": "2028-12-08"
+  },
+  {
+    "festivo": "Navidad",
+    "fecha": "2028-12-25"
+  }
+]

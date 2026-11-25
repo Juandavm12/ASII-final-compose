@@ -1,0 +1,37 @@
+C libre inicial=8.87 GiB
+$ /home/linuxbrew/.linuxbrew/opt/python@3.14/bin/python3.14 scripts/check.py
+PASS: 2027/2028, uniqueness, classification, isolated regeneration
+
+exit=0
+PASS clasificación integración 2027: 365 días; 19 fechas festivas devueltas por API1
+PASS clasificación integración 2028: 366 días; 19 fechas festivas devueltas por API1
+$ docker compose ps -q
+9d42d96b2235726b4e9cf892b9551ffcf08ff53ee7da1bef98b3451fa9882578
+251139a56deeea611aac1243d97d8282e1c9300e44417c2b9413d1fba13c7b2f
+ffde2234eb33f1057da8c425614017298f2ad3ae9850d5daca3f5b0c838e5b9e
+a1145446fb9b482d83bb2e78daf79bf1764ff35134ea88ccd0cc1a16553acea2
+
+exit=0
+$ docker compose restart
+ Container arq-final-festivos-calendario-festivos-1 Restarting 
+ Container arq-final-festivos-calendario-mongo-1 Restarting 
+ Container arq-final-festivos-calendario-calendario-1 Restarting 
+ Container arq-final-festivos-calendario-postgres-1 Restarting 
+ Container arq-final-festivos-calendario-festivos-1 Started 
+ Container arq-final-festivos-calendario-mongo-1 Started 
+ Container arq-final-festivos-calendario-postgres-1 Started 
+ Container arq-final-festivos-calendario-calendario-1 Started 
+
+exit=0
+PASS: cuatro servicios saludables tras reinicio
+PASS persistencia 2027: datos idénticos antes/después SIN regeneración
+PASS persistencia 2028: datos idénticos antes/después SIN regeneración
+$ docker compose ps
+NAME                                         IMAGE                                      COMMAND                  SERVICE      CREATED              STATUS                    PORTS
+arq-final-festivos-calendario-calendario-1   arq-final-festivos-calendario-calendario   "java -jar /app/app.…"   calendario   About a minute ago   Up 18 seconds (healthy)   127.0.0.1:8081->8081/tcp
+arq-final-festivos-calendario-festivos-1     arq-final-festivos-calendario-festivos     "sh /entrypoint.sh"      festivos     About a minute ago   Up 19 seconds (healthy)   127.0.0.1:8080->8080/tcp
+arq-final-festivos-calendario-mongo-1        mongo:7.0.17                               "docker-entrypoint.s…"   mongo        About a minute ago   Up 19 seconds (healthy)   27017/tcp
+arq-final-festivos-calendario-postgres-1     postgres:16.8-bookworm                     "docker-entrypoint.s…"   postgres     About a minute ago   Up 19 seconds (healthy)   5432/tcp
+
+exit=0
+PASS integración y persistencia; C libre final=8.87 GiB

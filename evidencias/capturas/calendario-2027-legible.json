@@ -1,0 +1,7 @@
+{
+  "url": "http://127.0.0.1:8081/api/calendario/listar/2027",
+  "status": 200,
+  "registros": 365,
+  "fecha": "2026-11-24T04:17:20.250Z",
+  "formato": "Respuesta HTTP real; solo sangría y tipografía modificadas; captura parcial del JSON completo"
+}

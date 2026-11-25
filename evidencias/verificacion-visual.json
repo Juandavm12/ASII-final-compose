@@ -1,0 +1,121 @@
+{
+  "fecha_UTC": "2026-11-24T23:48:15.324367+00:00",
+  "metodo": "Consultas de solo lectura. No se reinicia ni regenera el calendario en esta captura. Comparación con evidencia previa tras reinicio.",
+  "paneles": [
+    {
+      "titulo": "Servicios Docker Compose",
+      "datos": [
+        {
+          "Service": "calendario",
+          "State": "running",
+          "Health": "healthy",
+          "Ports": "127.0.0.1:8081->8081/tcp"
+        },
+        {
+          "Service": "festivos",
+          "State": "running",
+          "Health": "healthy",
+          "Ports": "127.0.0.1:8080->8080/tcp"
+        },
+        {
+          "Service": "mongo",
+          "State": "running",
+          "Health": "healthy",
+          "Ports": "27017/tcp"
+        },
+        {
+          "Service": "postgres",
+          "State": "running",
+          "Health": "healthy",
+          "Ports": "5432/tcp"
+        }
+      ]
+    },
+    {
+      "titulo": "Red compartida y volúmenes persistentes",
+      "datos": [
+        {
+          "servicio": "calendario",
+          "redes": [
+            "arq-final-festivos-calendario_default"
+          ],
+          "volumenes": []
+        },
+        {
+          "servicio": "festivos",
+          "redes": [
+            "arq-final-festivos-calendario_default"
+          ],
+          "volumenes": []
+        },
+        {
+          "servicio": "mongo",
+          "redes": [
+            "arq-final-festivos-calendario_default"
+          ],
+          "volumenes": [
+            {
+              "nombre": "45ad3bd32f505976ff5e9c8fdcfaa9e9f327209df6b16e1732d4458013cd8d56",
+              "destino": "/data/configdb"
+            },
+            {
+              "nombre": "arq-final-festivos-calendario_mongo_data",
+              "destino": "/data/db"
+            }
+          ]
+        },
+        {
+          "servicio": "postgres",
+          "redes": [
+            "arq-final-festivos-calendario_default"
+          ],
+          "volumenes": [
+            {
+              "nombre": "arq-final-festivos-calendario_postgres_data",
+              "destino": "/var/lib/postgresql/data"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Consulta actual y contraste de datos persistidos",
+      "datos": [
+        {
+          "url": "http://127.0.0.1:8081/api/calendario/listar/2027",
+          "HTTP": 200,
+          "dias": 365,
+          "fechas_unicas": 365,
+          "coincide_con_evidencia_tras_reinicio": true,
+          "sha256_json_canonico": "a3974f45a07f1aab7047d0ad4e465654b266060c2f0082e8c1b6f0f823d35b74",
+          "primera_fila": {
+            "id": 732,
+            "fecha": "2027-01-01",
+            "tipo": {
+              "id": 3,
+              "tipo": "Dia festivo"
+            },
+            "descripcion": "Viernes"
+          }
+        },
+        {
+          "url": "http://127.0.0.1:8081/api/calendario/listar/2028",
+          "HTTP": 200,
+          "dias": 366,
+          "fechas_unicas": 366,
+          "coincide_con_evidencia_tras_reinicio": true,
+          "sha256_json_canonico": "0f6625d2b4e7b84071a129c22febff397c2761bc9f18a5ec062e7da5f9671117",
+          "primera_fila": {
+            "id": 366,
+            "fecha": "2028-01-01",
+            "tipo": {
+              "id": 3,
+              "tipo": "Dia festivo"
+            },
+            "descripcion": "Sábado"
+          }
+        }
+      ]
+    }
+  ]
+}
