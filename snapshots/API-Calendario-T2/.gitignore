@@ -1,0 +1,31 @@
+# Java y archivos de construcción
+*.class
+/target/
+/build/
+/.gradle/
+
+# IDEs: IntelliJ IDEA, Eclipse y VS Code
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Variables de entorno locales
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Los wrappers de Maven/Gradle y sus JAR deben versionarse.
