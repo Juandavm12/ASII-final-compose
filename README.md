@@ -2,6 +2,12 @@
 
 Dos APIs integradas para generar y consultar calendarios colombianos, con MongoDB y PostgreSQL, redes privadas y persistencia mediante volúmenes.
 
+## Autores
+
+- Juan David Velasquez Murillo
+- Paula Andrea Calderon Quintero
+- Jose David Vasquez Diaz
+
 ## Inicio rápido
 
 Requisitos: Docker Engine con Compose v2, puertos locales 8080 y 8081 disponibles y recursos para compilar Java 21 y Node 22. Reserve al menos 2 GiB libres antes de compilar o descargar imágenes.
